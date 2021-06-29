@@ -3,7 +3,7 @@
 ##  Features
 1. As the user, you can login your bank account with your initial as username and 4-digit as the password to see your account. (This app use data of 3 fake accounts to show the function of the app. You can use these following to login as: #1 User: ay - Pin: 1111 #2 User: jd - Pin: 2222 #3 User: py - pin:3333)
 
-2. As the user, you will see the welcome message with your name displayed
+2. As the user, you will see the welcome message with your name displayed with good morning or evening depends on your current daytime.
 
 3. As the user, you can check your current balance after you login your account and your transaction history (the type of transaction: deposit or withdrawal, the date of the transaction executed and the amount of money)
 
@@ -15,6 +15,7 @@
 
 7. As the user, you can sort the history of transactions by the amount of each transaction
 
-8. As the user, you will be logout after 5 minutes if you don't have any interaction with your account. Otherwise, any interaction is executed before 5 minutes will reset the timeout again.
+8. As the user, you will be logout after 2 minutes if you don't have any interaction with your account. Otherwise, any interaction is executed before 2 minutes will reset the timeout again.
 
-9. As the user, you can close your account to delete all of your account information, and you will not be able to login you account without reload the page
+9. As the user, you can close your account to delete all of your account information, and you will not be able to login you account without reload the page.
+
